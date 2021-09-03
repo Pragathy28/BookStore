@@ -1,6 +1,6 @@
 # BookStore
 ## Abstract:
-The main objective of this project is to build a simple swing mvc book store gui.
+The main objective of this project is to build a simple swing mvc book store.
 Here in this project we can easily access and place order the books.
 
 ## Screenshots:
